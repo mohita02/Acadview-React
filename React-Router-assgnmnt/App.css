@@ -1,0 +1,39 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: bisque;
+}
+.logo{
+    padding-left: 30px;
+    font-size: 40px;
+    font-weight: bold;
+    color:white;
+}
+.image1{
+    height: 100px;
+    width: 100px;
+    float:left;
+    padding-bottom:20px;
+    
+}
+.a{
+    font-weight: bold;
+    color: purple;
+}
+.a1{
+    font-size: 20px;
+}
+label{
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+}
+.font{
+    font-size: 18px;
+}
+.del{
+   
+    color: black;
+    background:lightcoral;
+    padding: 8px;
+    width: 200px;
+}
