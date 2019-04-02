@@ -1,0 +1,1 @@
+Justin Bieber and Selena Gomez should have married each other!!!
